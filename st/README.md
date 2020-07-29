@@ -1,3 +1,7 @@
+# Just a small note
+I left it as it is, since all I did was changing the theme, it's like a credit for Luke Smith. Check his channel on YouTube if you don't watch him already.  
+More details about the theme are found in config.h file
+
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
