@@ -106,7 +106,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export DEFAULT_USER="$(whoami)"
+export DEFAULT_USER="$(whoami)" # This removes host/computer name from the prombt
 neofetch
 
 export NVM_DIR="$HOME/.nvm"
