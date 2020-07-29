@@ -8,4 +8,5 @@ rofi -show run -modi run -location 1 -width 100 \
                  -color-active "#222222, #b1b4b3, #222222, #007763, #b1b4b3" \
                  -color-urgent "#222222, #b1b4b3, #222222, #77003d, #b1b4b3" \
                  -kb-row-select "Tab" -kb-row-tab ""
+                 
 # https://wiki.archlinux.org/index.php/Rofi#Rofi_as_dmenu_replacement
