@@ -38,10 +38,6 @@ call plug#end()
 	map <C-k> <C-w>k
 	map <C-l> <C-w>l
 	map <leader>f :Goyo \| set linebreak<CR>
-"	vnoremap <C-c> "+y
-"	map <C-v> "+P
-"	vnoremap <C-c> "*y :let @+=@*<CR>
-
 
 
 if exists('+termguicolors')
