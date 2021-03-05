@@ -49,7 +49,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 setxkbmap us &
 $HOME/display.sh
-nitrogen --restore &
+./.fehbg
 xsetroot -cursor_name left_ptr
 picom -f &
 fcitx &
